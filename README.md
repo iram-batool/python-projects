@@ -9,4 +9,4 @@ A Python CLI app to manage student records (add, update, delete, list) with JSON
 
 ## Author
 
-Built by [Your Name] as part of a Python learning roadmap toward AI/web development.
+Built by [Iram batool] as part of a Python learning roadmap toward AI/web development.
